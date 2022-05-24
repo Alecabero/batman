@@ -1,0 +1,59 @@
+
+body{
+    font-family: 'Battambang', sans-serif;
+    background-color: black;
+    color: red;
+}
+.titulo{
+    text-align: center;
+    text-decoration:underline
+}
+.personajes{
+    text-align: center;
+}
+.epico{
+    font-size: medium;
+    color:gray;
+}
+.fin{
+    font-size: large;
+    color:cornsilk
+}
+
+.personajes{
+    font-size: xx-large;
+    text-decoration: underline;
+}
+.bat{
+    font-size: 6vh;
+}
+.acer{
+    font-size: 2vw;
+    
+}
+.pin{
+    font-size:20px;
+    
+}
+.sel{
+    font-size:2em;
+    
+}
+.jam{
+font-size: .5cm;
+
+}
+.alf{
+    font-size: 100%;
+    
+}
+.fal{
+    font-size: small;
+    
+}
+
+ul{
+    
+    list-style-image: url(281784_batman_bat_hero_super_icon.png);
+    margin-left: 100px;
+}
